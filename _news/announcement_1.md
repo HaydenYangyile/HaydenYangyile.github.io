@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Finally arrived at NJU after 7 hours of train and 2 hours of subway!
+I finished my College Entrance Examination today!
