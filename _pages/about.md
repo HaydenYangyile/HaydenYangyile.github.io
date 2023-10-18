@@ -19,4 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Yang Yile is studying journalism and communication in Nanjing University currently. He now majors international communication. He positively participates in programs which include marketing, tourism, and journalism. he has taken part in several business competitions and also devoted to practical activities such as anti-epidemic volunteering and operating Wechat official accounts.
+Yang Yile is studying journalism and communication in Nanjing University currently. He now majors in international communication. He positively participates in programs which include marketing, tourism, and journalism. he has taken part in several business competitions and also devoted to practical activities such as anti-epidemic volunteering and operating Wechat official accounts.
