@@ -2,7 +2,7 @@
 layout: post
 title: I graguated from Sichuan Univesity
 date: 2023-06-28 08:00:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 
