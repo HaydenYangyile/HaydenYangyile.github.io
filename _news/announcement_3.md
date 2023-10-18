@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Finally arrive at Nanjing after seven hours on the train! :sparkles: :smile:
+Finally arrive in Nanjing after seven hours on the train! :sparkles: :smile:
