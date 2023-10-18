@@ -1,32 +1,24 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: I graguated from Sichuan Univesity
+date: 2023-06-28 08:00:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+This is a special day for me because I am participating in the graguation ceremony, and this is my last day in Sichuan University.
 
 ***
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+Tomorrow morning, I will leave Sichuan University, Chengdu, and this place that I have already considered half my home. When I came back to pack my luggage after dinner tonight, I heard my roommate reminiscing about interesting things from the past, and tears silently flowed out. 
 
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+Four years have passed in a flash, and reason occasionally reminds me that college life is over, but emotionally it is still difficult to react and accept such a fact. I feel that a part of me has been scattered here and can no longer be taken away. At this moment, Chengdu is experiencing continuous night rain again. Like countless ordinary nights in the past, who am I when I leave with my suitcase at dawn.
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
 
 ***
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+When I first reported to university four years ago, I took the high-speed train, which was a long eight hour journey. The train passed through numerous hills and tunnels along the way, and when I entered the Chengdu Plain, the scenery outside the window immediately became clear and clear. The novelty and touch that first arrived at that time can still be felt now.
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+Later in college, I resisted taking this high-speed train that connected Chengdu and Taiyuan, fearing the constraints and hardships of eight hours. However, after graduating from Chengdu today, I still wanted to take the train. I wanted to review the familiar routes and scenery again, and even more, I wanted to see the hard work and dedication of my high school years at that time, how to take me through the vast sea of people and time, from Shanxi to the land of Southwest China.
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+In the early morning of Chengdu, it was cloudy and rainy. The train started, accelerated, and let the scenery outside the window fly in my eyes. Go back as you come, perhaps this is also a kind of beginning and ending.
