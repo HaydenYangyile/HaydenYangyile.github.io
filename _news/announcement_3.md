@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Finally arrive in Nanjing after seven hours on the train! :sparkles: :smile:
+Finally arrived at NJU after 7 hours on the train and 2 hours on the subway! :sparkles: :smile:
