@@ -13,6 +13,3 @@ This project takes grassroots governments, enterprises, and the public as the re
 Discuss and propose research topics with members; Collaborate with members to write a literature review on research trends on public and corporate participation in environmental governance; Data organization and literature analysis
 
 
-
-```
-{% endraw %}
