@@ -12,6 +12,66 @@
   type: time_table
   contents:
     - title: Bachelor
-      institution: Sichuan University
+      institution: Sichuan University, Chengdu, China
       year: 2019-2023
       description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: master
+      institution: Nangjing University, Nanjing, China
+      year: 2023
+      description:
+        - Description 1.
+        - Description 2.
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: intern
+      institution: Sichuan International Exhibition Corporation, Sichuan Province
+      year: 2021 - 2022
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+   
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - Outstanding Graduate of Sichuan University
+    - year: 2023
+      items: 
+        - Outstanding Student of Sichuan University
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items: 
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
