@@ -8,7 +8,7 @@
     "url": "https://haydenyangyile.github.io/",
     "summary": "A student in Nanjing University",
     "location": {
-      "address": "Xianlin Avenue 163",
+      "address": "163 Xianlin Avenue",
       "postalCode": "CA 94115",
       "city": "Nanjing",
       "countryCode": "CHN",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "Hayden",
-        "url": "https://twitter.com/Hayden"
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
       }
     ]
   },
@@ -27,20 +27,20 @@
   "education": [
     {
       "institution": "Sichuan University",
-      "url": "",
+      "url": "https://www.scu.edu.cn/",
       "area": "",
       "studyType": "Bachelor",
-      "startDate": "2019",
-      "endDate": "2023",
+      "startDate": "2019-09-01",
+      "endDate": 2023-06-30",
       "score": "",
       "courses": []
     }
   ],
-   "awards": [
+  "awards": [
     {
       "title": "Outstanding Graduate of Sichuan University",
-      "date": "2022-10",
-      "awarder": "",
+      "date": "2022-10-01",
+      "awarder": "Sichuan University",
       "summary": ""
     }
   ],
