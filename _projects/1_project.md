@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Study on the Relationship between Marathon Running and the Development of Chinese Urban Culture
-description: 
+description: Ministry of Education Humanities and Social Sciences Youth Fund Project
 img: assets/img/12.jpg
 importance: 1
 category: work
