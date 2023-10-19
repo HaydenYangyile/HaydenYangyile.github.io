@@ -6,7 +6,7 @@
     "email": "yangyile1126@163.com",
     "phone": "(912) 123-4567",
     "url": "https://haydenyangyile.github.io/",
-    "summary": "A student in Nanjing University ",
+    "summary": "A student in Nanjing University",
     "location": {
       "address": "Xianlin Avenue 163",
       "postalCode": "CA 94115",
@@ -36,7 +36,14 @@
       "courses": []
     }
   ],
-  "awards": ["Outstanding Graduate of Sichuan University"],
+   "awards": [
+    {
+      "title": "Outstanding Graduate of Sichuan University",
+      "date": "2022-10",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
   "certificates": [],
   "publications": [],
   "skills": [],
@@ -47,7 +54,7 @@
     },
     {
       "language": "English",
-      "fluency": "Kind of Fluent"
+      "fluency": "Fluent"
     }
   ],
   "interests": [],
