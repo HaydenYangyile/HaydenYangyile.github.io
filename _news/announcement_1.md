@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2019-06-08 17:00:00-0400
+date: 2022-09-28 13:04:00-0400
 inline: true
 related_posts: false
 ---
 
-I finished my College Entrance Examination today!
+So excited! I was admitted to Nanjing University today! I wanna remember this moment forever.
