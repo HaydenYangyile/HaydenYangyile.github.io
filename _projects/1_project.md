@@ -5,7 +5,7 @@ description: Ministry of Education Humanities and Social Sciences Youth Fund Pro
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: 
 ---
 
 This project takes urban marathon participants as the research object, with marathon events and urban development as the core, proposes the main influencing factors that affect their interactive development, and ultimately constructs a marathon event and host city development model, including participant motivation model, participant behavior model, etc.
