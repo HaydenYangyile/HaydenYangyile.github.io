@@ -23,10 +23,14 @@
             - Sub-description 2.
     - title: Master
       institution: Nangjing University, Nanjing, China
-      year: 2023
+      year: 2023-2026
       description:
         - Description 1.
         - Description 2.
+         - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
 
 - title: Experience
   type: time_table
