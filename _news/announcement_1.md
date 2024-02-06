@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-So excited! I was admitted to Nanjing University today! I wanna remember this moment forever.
+So excited! I was admitted to Nanjing University today! In this moment now capture it remember it.
