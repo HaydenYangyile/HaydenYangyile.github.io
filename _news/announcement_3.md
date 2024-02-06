@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Finally arrived at NJU after 7 hours on the train and 2 hours on the subway! :sparkles: :smile:
+Finally arrived at NJU after 7 hours on the train and 2 hours on the subway! Looking forward to embarking on a brand new journey at Nanjing University:sparkles: :smile:
