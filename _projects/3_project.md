@@ -10,4 +10,4 @@ category: work
 
 Design marketing plans for the Jianchuan Museum settlement in Chengdu as a red tourism destination.
 
-Compare marketing cases of different museums, write cross-border marketing plans and feasibility analysis sections of the planning book
+Compare marketing cases of different museums, write cross-border marketing plans and feasibility analysis sections of the planning book.
